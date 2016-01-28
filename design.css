@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+body {
+  background: linear-gradient(blue, white);
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+a:hover {
+  color: yellow;
+}
+
+.sub {
+  color: white;
+  padding-left: 650px;
+}
